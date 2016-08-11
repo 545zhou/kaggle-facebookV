@@ -17,7 +17,3 @@ and then find the notebook file: report.ipynb
 Websites: Kaggle, Google, Stackoverflow, Udacity, scikit-learn.org and so on.
 
 Books: Python For Data Analysis
-
-Some calculations are long and print out extra information for me to debug or track status. So I wrote down the calculation result direclty instead of showing all information. But the reported _MAP@3_ scores and ranks are true and real. They can be found in my kaggle link:
-
-http://www.kaggle.com/taozhou
